@@ -45,3 +45,5 @@ elif user_choice == "rock":
         print("Paper covers rock. You lost :(")
 
 #5) displaying results 
+
+print("thank you for playing. Please play again!")
