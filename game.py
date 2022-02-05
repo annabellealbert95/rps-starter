@@ -12,6 +12,7 @@ user_choice = input("Please choose one of: 'rock', 'paper', 'scissors': ")
 
 #2) Validating user inputs
 
+options = ("rock", "paper", "scissors")
 user_choice.lower()
 
 if user_choice not in options:
