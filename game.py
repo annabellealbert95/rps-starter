@@ -14,7 +14,7 @@ user_choice = input("Please choose one of: 'rock', 'paper', 'scissors': ")
 
 user_choice.lower()
 
-if user_choice not in choices:
+if user_choice not in options:
     print("Wrong input. Please try again.")
     exit()
 
