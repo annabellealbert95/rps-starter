@@ -1,6 +1,6 @@
-# rps-starter
+# rps
 
-A Starter Repository for the [Rock Paper Scissors Exercise](https://github.com/prof-rossetti/intro-to-python/blob/main/exercises/rock-paper-scissors/README.md).
+This is a Rock, Paper, Scissors game played against the computer. The computer's pick will be randomly decided, and it will determine the winner.
 
 ## Setup
 
