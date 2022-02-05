@@ -56,3 +56,6 @@ elif user_choice == "rock":
 #5) displaying results 
 
 print("Thank you for playing. Please play again!")
+
+exit()
+
