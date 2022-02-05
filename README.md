@@ -1,6 +1,8 @@
 # rps
 
-This is a Rock, Paper, Scissors game played against the computer. The computer's pick will be randomly decided, and it will determine the winner.
+This is a fun Rock, Paper, Scissors game played against the computer! 
+
+The computer will randomly decide their option and winner will be decided from there!!!!
 
 ## Setup
 
