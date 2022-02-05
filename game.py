@@ -9,9 +9,17 @@
 
 user_choice = input("Please choose one of: 'rock', 'paper', 'scissors': ")
 
-print("User Chose:", user_choice)
 
 #2) Validating user inputs
+
+user_choice.lower()
+
+if user_choice not in choices:
+    print("Wrong input. Please try again.")
+    exit()
+
+print("User Chose:", user_choice)
+
 
 #3) Simulating computer selection 
 
@@ -46,4 +54,4 @@ elif user_choice == "rock":
 
 #5) displaying results 
 
-print("thank you for playing. Please play again!")
+print("Thank you for playing. Please play again!")
